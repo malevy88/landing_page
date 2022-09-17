@@ -31,6 +31,13 @@ body {
 }
 
 a {
-    color: white;
+    color: #e5e7eb;
     text-decoration: none;
+    font-size: 18px;
+}
+
+.headline {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
 }
