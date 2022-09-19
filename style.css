@@ -40,4 +40,14 @@ a {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+    margin-left: 100px;
+    line-break: normal;
+    
+}
+
+.subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-left: 100px;
+    margin-top: -75px;
 }
