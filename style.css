@@ -51,15 +51,12 @@ a {
     gap: 500px;
 }
 
-.image-placeholder {
-    align-items: flex-start;
-}
 
 .subtext {
     font-size: 18px;
     color: #e5e7eb;
     margin-left: 100px;
-    margin-top: -75px;
+    margin-top: -65px;
 }
 
 
@@ -73,4 +70,10 @@ button {
     padding: 0.6em 2em;
     font-size: 1.1em;
     color: #fff;
+}
+
+/* Random section styling */
+.random-section {
+    display: flex;
+    
 }
