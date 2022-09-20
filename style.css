@@ -73,7 +73,24 @@ button {
 }
 
 /* Random section styling */
+.random-header {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
 .random-section {
     display: flex;
-    
+    gap: 60px;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.info {
+    max-width: 200px;
 }
