@@ -47,7 +47,7 @@ a {
     color: #F9FAF8;
     margin-left: 100px;
     line-break: normal;
-    
+    margin-top: -50px;
 }
 
 .sub-image {
@@ -55,15 +55,12 @@ a {
     gap: 500px;
 }
 
-
 .subtext {
     font-size: 18px;
     color: #e5e7eb;
     margin-left: 100px;
     margin-top: -65px;
 }
-
-
 
 button {
     margin-left: 100px;
@@ -78,6 +75,7 @@ button {
 
 /* Random section styling */
 .random-header {
+    margin-top: 20px;
     text-align: center;
     font-size: 36px;
     font-weight: bolder;
