@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',
 }
 
 .container {
@@ -104,4 +104,21 @@ img {
 
 .quote-section {
     background-color: #e5e7eb;
+    padding: 75px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.quotee {
+    display: flex;
+    margin-left: 1000px;
+    font-size: 24px;
+    font-weight: bolder;
 }
