@@ -62,7 +62,7 @@ a {
     margin-top: -65px;
 }
 
-button {
+header-button {
     margin-left: 100px;
     margin-top: 10px;
     background-color:#1976d2;
@@ -125,3 +125,27 @@ img {
 
 /* Call to action section */
 
+.call-section {
+    margin: 100px;
+    background-color: #1976d2;
+    width: 1500px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+}
+
+.call-to-action {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.foot {
+    background-color:#1976d2;
+    border-radius: 6px;
+    border-top: #F9FAF8;
+    border-color: #e5e7eb;
+    padding: 0.6em 2em;
+    font-size: 1.1em;
+    color: #fff;
+}
