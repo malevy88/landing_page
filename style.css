@@ -135,17 +135,25 @@ img {
 }
 
 .call-to-action {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
     color: #F9FAF8;
     font-size: 24px;
     font-weight: bolder;
 }
 
 .foot {
+    margin-top: 30px;
     background-color:#1976d2;
     border-radius: 6px;
-    border-top: #F9FAF8;
     border-color: #e5e7eb;
     padding: 0.6em 2em;
     font-size: 1.1em;
     color: #fff;
+}
+
+.call-subtext {
+    font-size: 24px;
+    color: #F9FAF8;
 }
