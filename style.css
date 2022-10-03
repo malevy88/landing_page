@@ -157,3 +157,15 @@ img {
     font-size: 24px;
     color: #F9FAF8;
 }
+
+/* Footer Section */
+.footer-section {
+    background-color: #1f2937;
+    color: #F9FAF8;
+    font-size: 24px;
+    display: flex;
+    margin-top: auto;
+    justify-content: center;
+    align-items: center;
+    min-height: 75px;
+}
